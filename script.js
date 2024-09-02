@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Quais são as implicações da IA na privacidade dos dados pessoais de seus usuarios, corremos riscos usando tais?",
         alternativas: [
             {
-                texto: "A IA, embora possa desempenhar um papel fundamental na detecção e prevenção de ameaças à segurança.",
-                afirmacao: "afirmação"
+                texto: "A IA, embora possa desempenhar um papel fundamental na detecção e prevenção de ameaças à segurança ela pode fazer o contrario?",
+                afirmacao: "sim, hoje existem virus introduzidos de diversas formas por exemplo em links. Colocado de forma casual no meio de respostas ou perguntas podem pegar desavisados."
             },
             {
-                texto: "Também pode ser usada como uma ferramenta para a invasão de privacidade.",
-                afirmacao: "afirmação"
+            texto: "Também pode ser usada como uma ferramenta para a invasão de privacidade?",
+                afirmacao: "pode sim, afinal em maos erradas tudo se torna uma arma em potencial"
             }
         ]
     },
@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "Como podemos preservar a tradição e a cultura no atual contexto regido pelas inteligências artificiais",
         alternativas: [
             {
-                texto: "Realizando pesquisas para saber sobre suas tradições e culturas.",
-                afirmacao: "afirmação"
+                texto: "Realizando pesquisas para saber sobre suas tradições e culturas?",
+                afirmacao: "podemos usar a inteligencia artificial ao favor do conhecimento, usando de forma criativa e produtiva"
             },
             {
-                texto: "trabalhando a influência das tradições e culturas em nosso cotidiano",
-                afirmacao: "afirmação"
+                texto: "é possivel trabalhar a influência das tradições e culturas em nosso cotidiano?",
+                afirmacao: "com o uso da IA podemos usar a mesma para duvidas de culturas e habitos de um pais ou ate mesmo da nossa rotina. "
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "Essas formas sao um consumo inteligente das famosas IAs?",
         alternativas: [
             {
-                texto: "Buscando informação na legislação da saúde",
-                afirmacao: "afirmação"
+                texto: "Buscando informação na legislação da saúde?",
+                afirmacao: "sim, um otimo exemplo."
             },
             {
-                texto: "Confronto das informações da inteligengia artificial e a pessoal",
-                afirmacao: "afirmação"
+                texto: "Buscando respostas para uma duvida em comum?",
+                afirmacao: "sim, mas vale a pena conferir afinal as IAs tambem estao sujeitas a erros. "
             }
         ]
     }
